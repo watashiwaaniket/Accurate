@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    border-bottom: 5px solid orange;
+    font-weight: bold;
+    color: #333;
+}
+
+nav h1{
+    font-size: 24px;
+}
+
+.upload{
+    width: 100%;
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -50px;
+}
+
+#drop-area{
+    width: 500px;
+    height: 300px;
+    padding: 30px;
+    background-color:#f7f8ff;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#excel-view{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    border: 2px dashed #bbb5ff;
+    background-color: #f7f8ff;
+}
+
+p{
+    color: #666;
+}
+
+#or{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    color: orange;
+}
+
+.enter-manually{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 20vh;
+}
+
+#next{
+    padding: 20px;
+    background-color: #5c4ef8;
+    border-radius: 20px;
+    border: none;
+}
+
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+}
+
+#back{
+    margin-left: 100px;
+}
+
+#back-btn{
+    padding: 15px;
+    width: 80px;
+    background-color: orange;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+}
