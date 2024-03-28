@@ -31,3 +31,4 @@ Run on liverserver
 
 ![App Screenshot](https://github.com/watashiwaaniket/Accurate/blob/master/screenshots/1.png)
 
+![App Screenshot](https://github.com/watashiwaaniket/Accurate/blob/master/screenshots/2.png)
